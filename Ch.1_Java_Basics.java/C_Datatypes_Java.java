@@ -1,0 +1,24 @@
+class C_Datatypes_java{
+    public static void main (String args[]) {
+        byte b =19;
+        System.out.println(b);
+
+        char ch='c';
+        System.out.println(ch);
+
+        boolean var=true;
+        System.out.println(var);
+
+        float p=2.51f;
+        System.out.println(p);
+
+        int num=90;
+        System.out.println(num);
+
+        short n=678;
+        System.out.println(n);
+
+        // long
+        // double
+    }
+}

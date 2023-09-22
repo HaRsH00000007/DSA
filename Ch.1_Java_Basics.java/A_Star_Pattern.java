@@ -1,0 +1,7 @@
+class A_Star_Pattern{
+    public static void main (String args[]){
+        System.out.print(" * * * *\n * * *\n * *\n *");
+
+    }
+
+}
